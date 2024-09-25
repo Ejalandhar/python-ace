@@ -17,5 +17,7 @@ Name
 Student ID
 Scores in at least 3 subjects
 Calculate Grades: The program computes the total score and assigns a grade (A, B, C, D, or F) based on the total score.
+
 Multiple Students: Allows input of data for multiple students using a loop.
+
 Display Student Data: Outputs all student information, including name, total score, and assigned grade.
